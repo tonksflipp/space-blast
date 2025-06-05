@@ -1,2 +1,6 @@
-# space-blast
-2D shooter made in Unity for Game Design and Development 1.
+# Space Blast!
+
+A 2D shooter game developed in Unity as part of the course **Game Design and Development 1: 2D Shooter** from the **Game Design and Development with Unity Specialization** (Michigan State University, Coursera) using assets from the MSU.
+
+To play, download and extract the ZIP file for your platform.
+
