@@ -4,3 +4,8 @@ A 2D shooter game developed in Unity as part of the course **Game Design and Dev
 
 To play, download and extract the ZIP file for your platform. The executable files for each platform will be available in the Releases section of this repository.
 
+<p float="left">
+  <img src="Xq3Aoi.png" width="200" />
+  <img src="qHEMxB.png" width="200" />
+</p>
+
